@@ -8,13 +8,13 @@ const HOSTED_URLS = {
 
 const examples = {
   'example1':
-        'Scepticism was as much the result of knowledge, as knowledge is of scepticism.',
+        'I found that my landlord had got a letter from the Count,directing him to secure the best place on the coach for me; but on making inquiries as to details he seemed somewhat reticent, and pretended that he could not understand my German.',
   'example2':
-      'Buda-Pesth seems a wonderful place.',
+      'They were married; careful cultivation ripened the talents which nature had bestowed, and Melesigenes soon surpassed his schoolfellows in every attainment, and, when older, rivalled his preceptor in wisdom.',
   'example3':
         'Alice was beginning to get very tired of sitting by her sister on the bank.',
   'example4':
-      'I have no data yet, It is a capital mistake to theorize before one has data.'
+        'He chuckled to himself and rubbed his long, nervous hands together.'
 };
 
 function status(statusText) {
