@@ -8,11 +8,11 @@ const HOSTED_URLS = {
 
 const examples = {
   'example1':
-      'Alice was beginning to get very tired of sitting by her sister on the bank.',
+        'Scepticism was as much the result of knowledge, as knowledge is of scepticism.',
   'example2':
       'Buda-Pesth seems a wonderful place.',
   'example3':
-      'Scepticism was as much the result of knowledge, as knowledge is of scepticism.',
+        'Alice was beginning to get very tired of sitting by her sister on the bank.',
   'example4':
       'I have no data yet, It is a capital mistake to theorize before one has data.'
 };
